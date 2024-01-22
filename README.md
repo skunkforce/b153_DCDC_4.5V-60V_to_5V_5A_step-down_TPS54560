@@ -1,5 +1,6 @@
-# edgy_board number b123
-This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards). It provides the functionality of chip XXXX via interfaces YYYY. 
+# edgy_board number b154
+This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards). It provides a PoE-rectified (48V) to 5V 5A step down using [TPS54560](https://datasheet.lcsc.com/lcsc/1810131310_Texas-Instruments-TPS54560DDAR_C31966.pdf).
+
 
 ![](/board/board.png)
 
